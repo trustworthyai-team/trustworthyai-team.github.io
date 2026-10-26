@@ -53,3 +53,15 @@ Repeated all 90 page/viewport checks, including verifying the actual browser vie
 Added eleven sourced assets covering the remaining publication venues and MICCAI news. Every one of the 23 publications, 16 news entries, and 14 funding entries now has an agency, venue, publisher, or organizer mark. Three qualified substitutions are documented in [additional-logo-sources.md](additional-logo-sources.md): the INNS co-organizer for IJCNN 2022, the Springer publisher for DMKD, and the ICML host-conference logo for the AdvML workshop. Their accessible labels identify the organization accurately.
 
 Corrected generic venue labels on the four 2021 entries from their original citations. Added coverage validation to the local checker so a missing mark fails verification. All 303 local links/resources passed. The 90 page/viewport checks covered 610 logo instances with no missing marks, size mismatches, escaped images, loaded-image failures, or horizontal overflow. See `complete-logo-checks.json`. Reversed official marks were visually checked in monochrome for visibility on the light theme. The current ECCV archive serves a 2026 logo even on its 2024 page, so the matching 2024 mark was obtained from the conference participant Amazon Science instead.
+
+
+## Domain and punctuation update - October 26, 2026
+
+- Updated the default site address to https://trustworthyai-team.github.io/ and repository links to trustworthyai-team/trustworthyai-team.github.io. Regenerated the sitemap, robots.txt, all nine pages, and the deployment package.
+- Fixed the 404 page base address so navigation and assets on missing nested paths resolve against the current domain.
+- Removed em dashes from homepage copy, photo captions and alternative text, and publication text in the editable content snapshot. No literal or HTML-encoded em dashes remain in generated pages.
+- Passed all 303 local link/resource checks, including responsive image variants and fragment destinations.
+- Passed 27 browser layout checks across nine pages at 320, 768, and 1440 pixels with no horizontal overflow or broken loaded images. Passed mobile menu navigation and Escape, publication search/year/empty-result/reset checks, and both photo galleries with button and Escape closing. No page script errors occurred. See domain-checks.json.
+- Live checks returned HTTP 200 for all eight content pages, both discovery files, CSS, and JavaScript; a missing nested URL correctly returned HTTP 404. The live robots.txt, sitemap, and 404 base still contain the previous domain pending deployment of these changes.
+- Rechecked 75 external destinations: 61 returned HTTP 200, 1 returned HTTP 202, 2 returned HTTP 403, and 11 returned HTTP 999. ACM and LinkedIn restrictions prevent full automated verification of those targets; JMIR's 202 response does not establish readable article content.
+- Changes are local and packaged in _site/; they have not been pushed or deployed.

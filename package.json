@@ -1,7 +1,7 @@
 {
   "name": "trustworthyai-team",
   "version": "1.0.0",
-  "description": "Trustworthy AI Lab at Wayne State University — static GitHub Pages website",
+  "description": "Trustworthy AI Lab at Wayne State University - static GitHub Pages website",
   "private": true,
   "scripts": {
     "build": "node scripts/build.mjs",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ninjutsoo/trustworthyai-team.git"
+    "url": "git+https://github.com/trustworthyai-team/trustworthyai-team.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ninjutsoo/trustworthyai-team/issues"
+    "url": "https://github.com/trustworthyai-team/trustworthyai-team.github.io/issues"
   },
-  "homepage": "https://ninjutsoo.github.io/trustworthyai-team/",
+  "homepage": "https://trustworthyai-team.github.io/",
   "devDependencies": {
     "cheerio": "^1.2.0",
     "sharp": "^0.35.5"

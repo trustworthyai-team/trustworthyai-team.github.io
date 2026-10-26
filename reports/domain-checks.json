@@ -1,0 +1,255 @@
+{
+  "checkedAt": "2026-10-26T22:11:34.583Z",
+  "layouts": [
+    {
+      "file": "404.html",
+      "width": 320,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "awards-2023.html",
+      "width": 320,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "contact.html",
+      "width": 320,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "index.html",
+      "width": 320,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "lab-life.html",
+      "width": 320,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "news.html",
+      "width": 320,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "people.html",
+      "width": 320,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "publications.html",
+      "width": 320,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "research.html",
+      "width": 320,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "404.html",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "awards-2023.html",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "contact.html",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "index.html",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "lab-life.html",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "news.html",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "people.html",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "publications.html",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "research.html",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "404.html",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "awards-2023.html",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "contact.html",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "index.html",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "lab-life.html",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "news.html",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "people.html",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "publications.html",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    },
+    {
+      "file": "research.html",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "emDashes": false
+    }
+  ],
+  "interactions": [
+    "mobile menu open, Escape, and navigation",
+    "publication search, year filter, empty results, and reset",
+    "both photo galleries open, close, and Escape"
+  ],
+  "pageErrors": [],
+  "live": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "awards-2023.html",
+      "status": 200
+    },
+    {
+      "path": "contact.html",
+      "status": 200
+    },
+    {
+      "path": "lab-life.html",
+      "status": 200
+    },
+    {
+      "path": "news.html",
+      "status": 200
+    },
+    {
+      "path": "people.html",
+      "status": 200
+    },
+    {
+      "path": "publications.html",
+      "status": 200
+    },
+    {
+      "path": "research.html",
+      "status": 200
+    },
+    {
+      "path": "robots.txt",
+      "status": 200
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200
+    },
+    {
+      "path": "assets/style.css",
+      "status": 200
+    },
+    {
+      "path": "assets/site.js",
+      "status": 200
+    },
+    {
+      "path": "missing/nested/page",
+      "status": 404
+    }
+  ],
+  "live404Base": "https://ninjutsoo.github.io/trustworthyai-team/"
+}
