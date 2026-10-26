@@ -774,5 +774,27 @@
     "width": 1002,
     "height": 1280,
     "page": "members"
+  },
+  {
+    "source": "User-provided replacement portrait, October 26, 2026",
+    "local": "assets/images/saleh-zare-zade-headshot.webp",
+    "original": "assets/originals/saleh-zare-zade-headshot.png",
+    "width": 2096,
+    "height": 2560,
+    "page": "members"
+  },
+  {
+    "source": "User-provided portrait, cropped to head and shoulders, October 26, 2026",
+    "local": "assets/images/mohammad-amin-roshani-headshot.webp",
+    "original": "assets/originals/mohammad-amin-roshani.png",
+    "width": 480,
+    "height": 600,
+    "crop": {
+      "left": 260,
+      "top": 300,
+      "width": 480,
+      "height": 600
+    },
+    "page": "members"
   }
 ]
