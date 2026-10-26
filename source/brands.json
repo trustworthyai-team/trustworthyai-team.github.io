@@ -1,0 +1,121 @@
+{
+  "NSF": {
+    "name": "National Science Foundation",
+    "image": "assets/images/home-7d15bf3e34.webp"
+  },
+  "NIH": {
+    "name": "National Institutes of Health",
+    "image": "assets/images/home-261ab1ea00.webp"
+  },
+  "HRSA": {
+    "name": "Health Resources and Services Administration",
+    "image": "assets/images/hrsa-logo.webp"
+  },
+  "MIDL": {
+    "name": "Medical Imaging with Deep Learning",
+    "image": "assets/images/home-62a117569d.webp"
+  },
+  "CVPR": {
+    "name": "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026",
+    "image": "assets/images/home-bbe0f78b52.webp"
+  },
+  "AAAI": {
+    "name": "AAAI Conference on Artificial Intelligence",
+    "image": "assets/images/home-0bd8186e5b.webp"
+  },
+  "ICLR": {
+    "name": "International Conference on Learning Representations",
+    "image": "assets/images/home-e7c5935a18.webp"
+  },
+  "ECAI": {
+    "name": "European Conference on Artificial Intelligence 2025",
+    "image": "assets/images/news-9447c6a604.webp"
+  },
+  "JMIR-AI": {
+    "name": "JMIR AI",
+    "image": "assets/images/home-243b70bcb4.webp"
+  },
+  "WACV": {
+    "name": "IEEE/CVF Winter Conference on Applications of Computer Vision 2025",
+    "image": "assets/images/home-9251caba91.webp"
+  },
+  "Wayne State": {
+    "name": "Wayne State University",
+    "image": "assets/images/home-438bc9af26.webp"
+  },
+  "MICCAI": {
+    "name": "MICCAI Society",
+    "image": "assets/images/venue-miccai.webp",
+    "sourcePage": "https://www.miccai.org/",
+    "sourceAsset": "https://miccai.org/wp-content/themes/miccai/images/miccai-logo.png"
+  },
+  "IJCAI": {
+    "name": "International Joint Conferences on Artificial Intelligence",
+    "image": "assets/images/venue-ijcai.webp",
+    "sourcePage": "https://ijcai.org/",
+    "sourceAsset": "https://ijcai.org/wp-content/themes/ijcai/assets/img/logo.svg",
+    "tone": "ink",
+    "note": "Official reversed mark rendered in monochrome for the light page background."
+  },
+  "IJCNN-2025": {
+    "name": "International Joint Conference on Neural Networks 2025",
+    "image": "assets/images/venue-ijcnn-2025.webp",
+    "sourcePage": "https://2025.ijcnn.org/",
+    "sourceAsset": "https://confcats-siteplex.s3.us-east-1.amazonaws.com/ijcnn25/thumbnail_ijcnn25_logo_color_02_639e9da0d2.png"
+  },
+  "IJCNN": {
+    "name": "International Neural Network Society, IJCNN co-organizer",
+    "image": "assets/images/venue-ijcnn.webp",
+    "sourcePage": "https://www.inns.org/past-ijcnn-conferences",
+    "sourceAsset": "https://www.inns.org/assets/site/logo.png",
+    "note": "The 2022 conference site blocks retrieval. Use the official co-organizer mark, explicitly identified, rather than a different conference year."
+  },
+  "ECCV": {
+    "name": "European Conference on Computer Vision 2024",
+    "image": "assets/images/venue-eccv.webp",
+    "sourcePage": "https://www.amazon.science/conferences-and-events/eccv-2024",
+    "sourceAsset": "https://cdn.amazon.science/dims4/default/e11a30d/2147483647/strip/true/crop/602x308+0+0/resize/326x167!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2Fdf%2Fd5%2F9e41923e49b0a8ebfd7f78bfd780%2Feccv-2024.png",
+    "note": "2024 mark from conference participant Amazon Science. The current conference archive navigation incorrectly serves a 2026 image, which is not used."
+  },
+  "CHI": {
+    "name": "ACM CHI Conference on Human Factors in Computing Systems 2024",
+    "image": "assets/images/venue-chi.webp",
+    "sourcePage": "https://chi2024.acm.org/",
+    "sourceAsset": "https://chi2024.acm.org/wp-content/uploads/2023/10/cropped-cropped-chi24_favicon-192x192.png"
+  },
+  "TheWebConf": {
+    "name": "ACM The Web Conference 2024",
+    "image": "assets/images/venue-thewebconf.webp",
+    "sourcePage": "https://www2024.thewebconf.org/",
+    "sourceAsset": "https://www2024.thewebconf.org/img/logos/theWebConf2024-logo.png"
+  },
+  "ECML": {
+    "name": "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases",
+    "image": "assets/images/venue-ecml.webp",
+    "sourcePage": "https://ecmlpkdd.org/",
+    "sourceAsset": "https://ecmlpkdd.org/_next/static/media/ecml-pkdd.93f4d432.svg"
+  },
+  "AdvML@ICML": {
+    "name": "ICML, host conference for the AdvML workshop",
+    "image": "assets/images/venue-advml-icml.webp",
+    "sourcePage": "https://icml.cc/Conferences/2022",
+    "sourceAsset": "https://icml.cc/static/core/img/ICML-logo.svg",
+    "note": "Official host-conference mark for the AdvML workshop publication."
+  },
+  "DMKD": {
+    "name": "Springer, publisher of Data Mining and Knowledge Discovery",
+    "image": "assets/images/venue-dmkd.webp",
+    "sourcePage": "https://link.springer.com/journal/10618",
+    "sourceAsset": "https://link.springer.com/oscar-static/images/logo-springer-white-960529c121.svg",
+    "tone": "ink",
+    "note": "Publisher mark, explicitly identified; the journal does not expose a separate logo. Reversed mark rendered in monochrome for the light background."
+  },
+  "ISBI": {
+    "name": "IEEE International Symposium on Biomedical Imaging 2021",
+    "image": "assets/images/venue-isbi.webp",
+    "sourcePage": "https://biomedicalimaging.org/2021/",
+    "sourceAsset": "https://biomedicalimaging.org/2021/wp-content/uploads/sites/61/2020/04/LogoIEEE.2021.112.png",
+    "tone": "ink",
+    "note": "Official reversed header mark rendered in monochrome for the light page background."
+  }
+}

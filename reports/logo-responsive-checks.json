@@ -1,0 +1,86 @@
+[
+  {
+    "width": 320,
+    "page": "index",
+    "broken": [],
+    "logos": 8,
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "page": "news",
+    "broken": [],
+    "logos": 15,
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "page": "publications",
+    "broken": [],
+    "logos": 10,
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "page": "research",
+    "broken": [],
+    "logos": 14,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "page": "index",
+    "broken": [],
+    "logos": 8,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "page": "news",
+    "broken": [],
+    "logos": 15,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "page": "publications",
+    "broken": [],
+    "logos": 10,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "page": "research",
+    "broken": [],
+    "logos": 14,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "page": "index",
+    "broken": [],
+    "logos": 8,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "page": "news",
+    "broken": [],
+    "logos": 15,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "page": "publications",
+    "broken": [],
+    "logos": 10,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "page": "research",
+    "broken": [],
+    "logos": 14,
+    "overflow": false
+  }
+]

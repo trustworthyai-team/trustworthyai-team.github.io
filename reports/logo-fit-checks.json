@@ -1,0 +1,812 @@
+[
+  {
+    "width": 320,
+    "page": "index",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 8,
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "page": "research",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 14,
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "page": "people",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "page": "publications",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 10,
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "page": "news",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 15,
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "page": "contact",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "page": "lab-life",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "page": "awards-2023",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "page": "404",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 375,
+    "page": "index",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 8,
+    "overflow": false
+  },
+  {
+    "width": 375,
+    "page": "research",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 14,
+    "overflow": false
+  },
+  {
+    "width": 375,
+    "page": "people",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 375,
+    "page": "publications",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 10,
+    "overflow": false
+  },
+  {
+    "width": 375,
+    "page": "news",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 15,
+    "overflow": false
+  },
+  {
+    "width": 375,
+    "page": "contact",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 375,
+    "page": "lab-life",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 375,
+    "page": "awards-2023",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 375,
+    "page": "404",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "page": "index",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 8,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "page": "research",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 14,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "page": "people",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "page": "publications",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 10,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "page": "news",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 15,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "page": "contact",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "page": "lab-life",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "page": "awards-2023",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "page": "404",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 540,
+    "page": "index",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 8,
+    "overflow": false
+  },
+  {
+    "width": 540,
+    "page": "research",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 14,
+    "overflow": false
+  },
+  {
+    "width": 540,
+    "page": "people",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 540,
+    "page": "publications",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 10,
+    "overflow": false
+  },
+  {
+    "width": 540,
+    "page": "news",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 15,
+    "overflow": false
+  },
+  {
+    "width": 540,
+    "page": "contact",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 540,
+    "page": "lab-life",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 540,
+    "page": "awards-2023",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 540,
+    "page": "404",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "page": "index",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 8,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "page": "research",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 14,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "page": "people",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "page": "publications",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 10,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "page": "news",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 15,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "page": "contact",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "page": "lab-life",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "page": "awards-2023",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "page": "404",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 900,
+    "page": "index",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 8,
+    "overflow": false
+  },
+  {
+    "width": 900,
+    "page": "research",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 14,
+    "overflow": false
+  },
+  {
+    "width": 900,
+    "page": "people",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 900,
+    "page": "publications",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 10,
+    "overflow": false
+  },
+  {
+    "width": 900,
+    "page": "news",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 15,
+    "overflow": false
+  },
+  {
+    "width": 900,
+    "page": "contact",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 900,
+    "page": "lab-life",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 900,
+    "page": "awards-2023",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 900,
+    "page": "404",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 901,
+    "page": "index",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 8,
+    "overflow": false
+  },
+  {
+    "width": 901,
+    "page": "research",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 14,
+    "overflow": false
+  },
+  {
+    "width": 901,
+    "page": "people",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 901,
+    "page": "publications",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 10,
+    "overflow": false
+  },
+  {
+    "width": 901,
+    "page": "news",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 15,
+    "overflow": false
+  },
+  {
+    "width": 901,
+    "page": "contact",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 901,
+    "page": "lab-life",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 901,
+    "page": "awards-2023",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 901,
+    "page": "404",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 1024,
+    "page": "index",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 8,
+    "overflow": false
+  },
+  {
+    "width": 1024,
+    "page": "research",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 14,
+    "overflow": false
+  },
+  {
+    "width": 1024,
+    "page": "people",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 1024,
+    "page": "publications",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 10,
+    "overflow": false
+  },
+  {
+    "width": 1024,
+    "page": "news",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 15,
+    "overflow": false
+  },
+  {
+    "width": 1024,
+    "page": "contact",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 1024,
+    "page": "lab-life",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 1024,
+    "page": "awards-2023",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 1024,
+    "page": "404",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "page": "index",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 8,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "page": "research",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 14,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "page": "people",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "page": "publications",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 10,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "page": "news",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 15,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "page": "contact",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "page": "lab-life",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "page": "awards-2023",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "page": "404",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 1920,
+    "page": "index",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 8,
+    "overflow": false
+  },
+  {
+    "width": 1920,
+    "page": "research",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 14,
+    "overflow": false
+  },
+  {
+    "width": 1920,
+    "page": "people",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 1920,
+    "page": "publications",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 10,
+    "overflow": false
+  },
+  {
+    "width": 1920,
+    "page": "news",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 15,
+    "overflow": false
+  },
+  {
+    "width": 1920,
+    "page": "contact",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 1920,
+    "page": "lab-life",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 1920,
+    "page": "awards-2023",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  },
+  {
+    "width": 1920,
+    "page": "404",
+    "brokenImages": [],
+    "imageOverflows": [],
+    "logoErrors": [],
+    "logos": 0,
+    "overflow": false
+  }
+]

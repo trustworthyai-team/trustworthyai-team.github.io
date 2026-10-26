@@ -1,0 +1,146 @@
+[
+  {
+    "date": "2026-06",
+    "kind": "Funding recommendation",
+    "title": "AI mentoring for student veterans",
+    "summary": "An NSF proposal led by Sooin Kim, with Thomas Pedroni and Dongxiao Zhu, was recommended for funding to support student veterans in engineering.",
+    "url": "https://dongxiaozhu.github.io/",
+    "source": "https://dongxiaozhu.github.io/",
+    "evidence": "June 2026 entry: proposal recommended for funding. The original lab page and faculty archive report different amounts; the shortened update omits the amount."
+  },
+  {
+    "date": "2026-04",
+    "kind": "Grant announcement",
+    "title": "NAIRR supports safer reasoning models",
+    "summary": "Our project on safety-aware post-training for large reasoning models received support from the NSF-led National AI Research Resource pilot.",
+    "url": "https://nairrpilot.org/projects/awarded?_requestNumber=NAIRR260014",
+    "source": "https://dongxiaozhu.github.io/",
+    "evidence": "April 2026 NAIRR grant announcement; also dated April 2026 on the original lab site."
+  },
+  {
+    "date": "2026-02",
+    "kind": "Paper acceptance",
+    "title": "FluenceFormer accepted at MIDL 2026",
+    "summary": "Ujunwa Mgboh’s first-authored paper develops transformer-based fluence map prediction for radiotherapy planning.",
+    "url": "https://openreview.net/forum?id=EEFzQ4bRTo",
+    "source": "https://dongxiaozhu.github.io/",
+    "evidence": "February 2026 FluenceFormer acceptance entry."
+  },
+  {
+    "date": "2026-02",
+    "kind": "Paper acceptance",
+    "title": "WalkGPT accepted at CVPR 2026",
+    "summary": "Rafi Ibn Sultan’s first-authored paper combines vision, language, depth, and segmentation to support pedestrian navigation.",
+    "url": "https://github.com/rafiibnsultan/WalkGPT/",
+    "source": "https://dongxiaozhu.github.io/",
+    "evidence": "February 2026 WalkGPT acceptance entry."
+  },
+  {
+    "date": "2026-01",
+    "kind": "Paper acceptance",
+    "title": "LLM unlearning paper accepted at ICLR 2026",
+    "summary": "Saleh Zare Zade’s first-authored paper, “Attention Smoothing Is All You Need for Unlearning,” studies how models can forget targeted information.",
+    "url": "https://openreview.net/forum?id=sX9HbELwLO",
+    "source": "https://dongxiaozhu.github.io/",
+    "evidence": "January 2026 ICLR acceptance entry."
+  },
+  {
+    "date": "2025-11",
+    "kind": "Oral paper acceptance",
+    "title": "Token-selective unlearning at AAAI 2026",
+    "summary": "Xiangyu Zhou’s first-authored paper, “Not All Tokens Are Meant to Be Forgotten,” was accepted for an oral presentation.",
+    "url": "https://arxiv.org/abs/2506.03142",
+    "source": "https://dongxiaozhu.github.io/",
+    "evidence": "November 2025 AAAI oral acceptance entry; the conference year is 2026."
+  },
+  {
+    "date": "2025-08",
+    "kind": "Grant announcement",
+    "title": "NIH funds accessibility-aware wayfinding",
+    "summary": "VisionWay advances AI for accessible path selection and navigation.",
+    "url": "research.html#area-3",
+    "source": "https://dongxiaozhu.github.io/",
+    "evidence": "August 2025 VisionWay grant announcement; distinct from the September 2025 project start in the funding list."
+  },
+  {
+    "date": "2025-08",
+    "kind": "Grant announcement",
+    "title": "NSF funds foundational LLM unlearning research",
+    "summary": "The project develops foundations and applications for removing unwanted knowledge from large language models.",
+    "url": "research.html#area-2",
+    "source": "https://dongxiaozhu.github.io/",
+    "evidence": "August 2025 unlearning grant announcement; distinct from the October 2025 project start in the funding list."
+  },
+  {
+    "date": "2025-07",
+    "kind": "Paper acceptance",
+    "title": "Two papers accepted at ECAI 2025",
+    "summary": "First-authored work by Rafi Ibn Sultan and Saleh Zare Zade advances mobility infrastructure segmentation and membership inference research.",
+    "url": "publications.html",
+    "source": "https://dongxiaozhu.github.io/",
+    "evidence": "July 2025 ECAI acceptance entry naming Rafi Sultan and Saleh Zare Zade."
+  },
+  {
+    "date": "2025-02-23",
+    "kind": "Paper acceptance",
+    "title": "Conversational risk assessment paper accepted",
+    "summary": "Mohammad Amin Roshani’s first-authored study on LLM-powered COVID-19 risk assessment was accepted by JMIR AI.",
+    "url": "https://ai.jmir.org/2025/1/e67363/",
+    "source": "https://ai.jmir.org/2025/1/e67363/",
+    "evidence": "Journal editorial history: accepted 23.02.25; published 27.03.25. The displayed date is acceptance, matching the milestone."
+  },
+  {
+    "date": "2024-10",
+    "kind": "Paper acceptance",
+    "title": "Two medical imaging papers accepted at WACV 2025",
+    "summary": "Chengyin Li’s first-authored papers advance multimodal and multi-organ medical image segmentation.",
+    "url": "publications.html",
+    "source": "https://dongxiaozhu.github.io/",
+    "evidence": "October 2024 acceptance entry for WACV 2025; the original page previously implied 2025 from the conference name."
+  },
+  {
+    "date": "2024-09",
+    "kind": "Grant announcement",
+    "title": "Federal support for geriatric care",
+    "summary": "The lab participates in a $5 million HRSA Geriatrics Workforce Enhancement Program project.",
+    "url": "https://dongxiaozhu.github.io/",
+    "source": "https://dongxiaozhu.github.io/",
+    "evidence": "September 2024 HRSA grant announcement; also dated September 2024 on the original lab site."
+  },
+  {
+    "date": "2023-06",
+    "kind": "Paper acceptance",
+    "title": "FocalUNETR accepted at MICCAI 2023",
+    "summary": "Chengyin Li’s first-authored paper develops a focal transformer for boundary-aware prostate segmentation in CT images.",
+    "url": "https://arxiv.org/pdf/2210.03189.pdf",
+    "source": "https://dongxiaozhu.github.io/",
+    "evidence": "June 2023 MICCAI acceptance entry."
+  },
+  {
+    "date": "2023",
+    "kind": "Awards",
+    "title": "2023 Computer Science awards",
+    "summary": "Yao Qiang received the Michael E. Conrad Award, and Chengyin Li received the department’s Best Graduate Research Assistant recognition.",
+    "url": "awards-2023.html",
+    "source": "https://sites.google.com/view/mlpa/mainpage",
+    "evidence": "Original lab page dates the combined awards to 2023. Faculty archive confirms Yao's award in May 2023 but does not establish a month for both awards, so the combined item retains year precision."
+  },
+  {
+    "date": "2022-12",
+    "kind": "Grant announcement",
+    "title": "NSF supports AI for mobility equity",
+    "summary": "A Convergence Accelerator grant supports human-centered AI to improve mobility access for people with disabilities.",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2235225&HistoricalAwards=false",
+    "source": "https://dongxiaozhu.github.io/",
+    "evidence": "December 2022 NSF Convergence Accelerator grant announcement."
+  },
+  {
+    "date": "2022-12",
+    "kind": "Grant announcement",
+    "title": "NIH supports personalized MIS-C risk assessment",
+    "summary": "An R33 grant supports a chatbot that brings together social, clinical, and molecular information for risk assessment.",
+    "url": "https://reporter.nih.gov/search/36NiNjad1UOcKxBGGwj_zg/projects",
+    "source": "https://dongxiaozhu.github.io/",
+    "evidence": "December 2022 R33 grant announcement; distinct from the January 2023 project start in the funding list."
+  }
+]

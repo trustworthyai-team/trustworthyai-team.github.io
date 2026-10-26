@@ -1,0 +1,13 @@
+[
+  "We study attacks on large language models and develop defenses that improve safety, alignment, and robustness.",
+  "We develop methods that help language models forget unwanted or sensitive information while preserving useful knowledge.",
+  "We combine vision, language, and segmentation to support spatial reasoning and accessible pedestrian navigation.",
+  "We connect medical images with clinical language to improve segmentation and cross-modal reasoning.",
+  "We build efficient, privacy-aware AI for language and medical imaging on mobile and resource-limited devices.",
+  "We use spatial and temporal IoT data for prediction, representation learning, and anomaly detection in connected health.",
+  "We design decision-support methods that address sampling, social, and algorithmic biases.",
+  "We combine visual and language features to help AI interpret medical images.",
+  "We use domain knowledge to make personalized recommendations easier to explain.",
+  "We develop 4D convolutional models to learn developmental patterns from fMRI data.",
+  "We develop conversational agents that use context and location to generate relevant responses."
+]

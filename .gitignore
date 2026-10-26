@@ -1,0 +1,12 @@
+node_modules/
+source/*.html
+source/*.json
+!source/asset-manifest.json
+!source/content.json
+!source/news.json
+!source/research-summaries.json
+!source/brands.json
+source/contact-sheet.png
+source/summary.txt
+_site/
+

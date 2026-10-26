@@ -1,0 +1,449 @@
+{
+  "checkedAt": "2026-10-26T20:25:49.094Z",
+  "results": [
+    {
+      "url": "https://wayne.edu/",
+      "status": 200,
+      "final": "https://wayne.edu/",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM",
+      "status": 200,
+      "final": "https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://wayne.edu/policies/",
+      "status": 200,
+      "final": "https://wayne.edu/policies",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://ai.wayne.edu/",
+      "status": 200,
+      "final": "https://ai.wayne.edu/",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://dongxiaozhu.github.io/",
+      "status": 200,
+      "final": "https://dongxiaozhu.github.io/",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=5057+Woodward+Avenue+Detroit+MI+48202",
+      "status": 200,
+      "final": "https://www.google.com/maps/search/?api=1&query=5057+Woodward+Avenue+Detroit+MI+48202",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://nairrpilot.org/projects/awarded?_requestNumber=NAIRR260014",
+      "status": 200,
+      "final": "https://nairrpilot.org/projects/awarded?_requestNumber=NAIRR260014",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/wsu-trustworthy-ai",
+      "status": 200,
+      "final": "https://github.com/wsu-trustworthy-ai",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.03142",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2506.03142",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://openreview.net/forum?id=EEFzQ4bRTo",
+      "status": 200,
+      "final": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DEEFzQ4bRTo",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://openreview.net/forum?id=sX9HbELwLO",
+      "status": 200,
+      "final": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DsX9HbELwLO",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2210.03189.pdf",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2210.03189",
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://reporter.nih.gov/search/36NiNjad1UOcKxBGGwj_zg/projects",
+      "status": 200,
+      "final": "https://reporter.nih.gov/search/36NiNjad1UOcKxBGGwj_zg/projects",
+      "type": "text/html"
+    },
+    {
+      "url": "https://dongxiaozhu.github.io",
+      "status": 200,
+      "final": "https://dongxiaozhu.github.io/",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://scholar.google.com/citations?hl=en&user=L0CbApYAAAAJ&view_op=list_works&sortby=pubdate",
+      "status": 200,
+      "final": "https://scholar.google.com/citations?hl=en&user=L0CbApYAAAAJ&view_op=list_works&sortby=pubdate",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2235225&HistoricalAwards=false",
+      "status": 200,
+      "final": "https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2235225&HistoricalAwards=false",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://arxiv.org/abs/2503.23534",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2503.23534",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://cvpr.thecvf.com/virtual/2026/poster/39962",
+      "status": 200,
+      "final": "https://cvpr.thecvf.com/virtual/2026/poster/39962",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://today.wayne.edu/news/2025/10/27/wayne-state-announces-creation-of-the-institute-for-ai-and-data-science-67514",
+      "status": 200,
+      "final": "https://today.wayne.edu/news/2025/10/27/wayne-state-announces-creation-of-the-institute-for-ai-and-data-science-67514",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://rafiibnsultan.github.io/",
+      "status": 200,
+      "final": "https://rafiibnsultan.github.io/",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=d9YLRmEAAAAJ&hl=en",
+      "status": 200,
+      "final": "https://scholar.google.com/citations?user=d9YLRmEAAAAJ&hl=en",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.linkedin.com/in/rafi-ibn-sultan/?originalSubdomain=bd",
+      "status": 999,
+      "final": "https://www.linkedin.com/in/rafi-ibn-sultan/?originalSubdomain=bd",
+      "type": "text/html"
+    },
+    {
+      "url": "https://www.linkedin.com/in/xiangyu-zhou-71086321a/",
+      "status": 999,
+      "final": "https://www.linkedin.com/in/xiangyu-zhou-71086321a/",
+      "type": "text/html"
+    },
+    {
+      "url": "https://xzhou98.github.io/",
+      "status": 200,
+      "final": "https://xzhou98.github.io/",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://ebooks.iospress.nl/doi/10.3233/FAIA250844",
+      "status": 200,
+      "final": "https://ebooks.iospress.nl/doi/10.3233/FAIA250844",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/rafiibnsultan/NA_UNETR",
+      "status": 200,
+      "final": "https://github.com/rafiibnsultan/NA_UNETR",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://scholar.google.com/citations?hl=en&user=qv4-U4oAAAAJ&view_op=list_works&gmla=AKzYXQ1FQ-Gkuywdl7bqzZo3cRC28XZkZg2GeA0A1Q8VE302K-gd8GPVPzx23R4d_IzBOy0tkyAFQDIMyc2GzlBz",
+      "status": 200,
+      "final": "https://scholar.google.com/citations?hl=en&user=qv4-U4oAAAAJ&view_op=list_works&gmla=AKzYXQ1FQ-Gkuywdl7bqzZo3cRC28XZkZg2GeA0A1Q8VE302K-gd8GPVPzx23R4d_IzBOy0tkyAFQDIMyc2GzlBz",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://github.com/rafiibnsultan",
+      "status": 200,
+      "final": "https://github.com/rafiibnsultan",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://dahuia.github.io/",
+      "status": 200,
+      "final": "https://dahuia.github.io/",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.linkedin.com/in/hui-zhu-32bb51280/",
+      "status": 999,
+      "final": "https://www.linkedin.com/in/hui-zhu-32bb51280/",
+      "type": "text/html"
+    },
+    {
+      "url": "https://www.linkedin.com/in/mohammad-amin-roshani/",
+      "status": 999,
+      "final": "https://www.linkedin.com/in/mohammad-amin-roshani/",
+      "type": "text/html"
+    },
+    {
+      "url": "https://arxiv.org/abs/2311.09948",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2311.09948",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/rafiibnsultan/WalkGPT/",
+      "status": 200,
+      "final": "https://github.com/rafiibnsultan/WalkGPT/",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://arxiv.org/abs/2402.13459",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2402.13459",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://arxiv.org/abs/2505.03392",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2505.03392",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://salehzz.github.io/",
+      "status": 200,
+      "final": "https://salehzz.github.io/",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=O3X_iagAAAAJ&hl=en",
+      "status": 200,
+      "final": "https://scholar.google.com/citations?user=O3X_iagAAAAJ&hl=en",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://sajid-alam-chowdhury.github.io/",
+      "status": 200,
+      "final": "https://sajid-alam-chowdhury.github.io/",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.linkedin.com/in/yiannos-demetriou-75068b1b6/",
+      "status": 999,
+      "final": "https://www.linkedin.com/in/yiannos-demetriou-75068b1b6/",
+      "type": "text/html"
+    },
+    {
+      "url": "https://github.com/xzhou98",
+      "status": 200,
+      "final": "https://github.com/xzhou98",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/Salehzz",
+      "status": 200,
+      "final": "https://github.com/Salehzz",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.linkedin.com/in/md-sajid-alam-chowdhury/",
+      "status": 999,
+      "final": "https://www.linkedin.com/in/md-sajid-alam-chowdhury/",
+      "type": "text/html"
+    },
+    {
+      "url": "https://mahbubislammahim.github.io/",
+      "status": 200,
+      "final": "https://mahbubislammahim.github.io/",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.linkedin.com/in/mahbub-islam-mahim-4634a5154/",
+      "status": 999,
+      "final": "https://www.linkedin.com/in/mahbub-islam-mahim-4634a5154/",
+      "type": "text/html"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=HwhiMM8AAAAJ&hl=en",
+      "status": 200,
+      "final": "https://scholar.google.com/citations?user=HwhiMM8AAAAJ&hl=en",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://shou-tzu-han.github.io/",
+      "status": 200,
+      "final": "https://shou-tzu-han.github.io/",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.linkedin.com/in/supriya-t-s-kumar/",
+      "status": 999,
+      "final": "https://www.linkedin.com/in/supriya-t-s-kumar/",
+      "type": "text/html"
+    },
+    {
+      "url": "https://umgboh.wixsite.com/umgboh",
+      "status": 200,
+      "final": "https://umgboh.wixsite.com/umgboh",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://qiangyao1988.github.io/",
+      "status": 200,
+      "final": "https://qiangyao1988.github.io/",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=8ADcg38AAAAJ&hl=en",
+      "status": 200,
+      "final": "https://scholar.google.com/citations?user=8ADcg38AAAAJ&hl=en",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.linkedin.com/in/saleh-zare-zade-aa334935a/",
+      "status": 999,
+      "final": "https://www.linkedin.com/in/saleh-zare-zade-aa334935a",
+      "type": "text/html"
+    },
+    {
+      "url": "https://chengyinlee.github.io/",
+      "status": 200,
+      "final": "https://chengyinlee.github.io/",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.linkedin.com/in/chengyin-li-a4262862/",
+      "status": 999,
+      "final": "https://www.linkedin.com/in/chengyin-li-a4262862/",
+      "type": "text/html"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2505.03392",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2505.03392",
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2311.11319",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2311.11319",
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://scholar.google.com/citations?user=GeL7DtsAAAAJ&hl=en",
+      "status": 200,
+      "final": "https://scholar.google.com/citations?user=GeL7DtsAAAAJ&hl=en",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2309.08035",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2309.08035",
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2411.15576",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2411.15576",
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://ai.jmir.org/2025/1/e67363/",
+      "status": 202,
+      "final": "https://ai.jmir.org/2025/1/e67363/",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2308.14936",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2308.14936",
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://dl.acm.org/doi/10.1145/3589334.3645676",
+      "status": 403,
+      "final": "https://dl.acm.org/doi/10.1145/3589334.3645676",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://dl.acm.org/doi/10.1145/3613904.3642045",
+      "status": 403,
+      "final": "https://dl.acm.org/doi/10.1145/3613904.3642045",
+      "type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://arxiv.org/abs/2301.13803",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2301.13803",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://arxiv.org/abs/2312.13630",
+      "status": 200,
+      "final": "https://arxiv.org/abs/2312.13630",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://dongxiaozhu.github.io/assets/files/RACev.pdf",
+      "status": 200,
+      "final": "https://dongxiaozhu.github.io/assets/files/RACev.pdf",
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://dongxiaozhu.github.io/assets/files/SGAicml2022w.pdf",
+      "status": 200,
+      "final": "https://dongxiaozhu.github.io/assets/files/SGAicml2022w.pdf",
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://dongxiaozhu.github.io/assets/files/IJCNN2022Tiny.pdf",
+      "status": 200,
+      "final": "https://dongxiaozhu.github.io/assets/files/IJCNN2022Tiny.pdf",
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s10618-021-00746-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20210324",
+      "status": 200,
+      "final": "https://link.springer.com/article/10.1007/s10618-021-00746-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20210324",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.ijcai.org/proceedings/2022/0103.pdf",
+      "status": 200,
+      "final": "https://ijcai.org/proceedings/2022/0103.pdf",
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2012.07688",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2012.07688",
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2006.13555.pdf",
+      "status": 200,
+      "final": "https://arxiv.org/pdf/2006.13555",
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://www.ijcai.org/proceedings/2021/0396.pdf",
+      "status": 200,
+      "final": "https://ijcai.org/proceedings/2021/0396.pdf",
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://www.linkedin.com/in/ujunwa-mgboh-420495198",
+      "status": 999,
+      "final": "https://www.linkedin.com/in/ujunwa-mgboh-420495198",
+      "type": "text/html"
+    },
+    {
+      "url": "https://www.linkedin.com/in/yaoqiang/",
+      "status": 200,
+      "final": "https://www.linkedin.com/in/yaoqiang",
+      "type": "text/html; charset=utf-8"
+    }
+  ]
+}
