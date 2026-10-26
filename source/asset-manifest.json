@@ -750,5 +750,29 @@
     "width": 640,
     "height": 133,
     "page": "https://biomedicalimaging.org/2021/"
+  },
+  {
+    "source": "User-provided portrait, October 26, 2026",
+    "local": "assets/images/saleh-zare-zade.webp",
+    "original": "assets/originals/saleh-zare-zade.png",
+    "width": 1920,
+    "height": 2560,
+    "page": "members"
+  },
+  {
+    "source": "User-provided portrait, October 26, 2026",
+    "local": "assets/images/mohammad-amin-roshani.webp",
+    "original": "assets/originals/mohammad-amin-roshani.png",
+    "width": 960,
+    "height": 1280,
+    "page": "members"
+  },
+  {
+    "source": "User-provided portrait, October 26, 2026",
+    "local": "assets/images/xiangyu-zhou.webp",
+    "original": "assets/originals/xiangyu-zhou.png",
+    "width": 1002,
+    "height": 1280,
+    "page": "members"
   }
 ]

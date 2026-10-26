@@ -62,3 +62,7 @@
   .funding-entry {display:block}
   .funding-entry > .brand-logo {margin-bottom:14px}
 }
+
+/* Frame Amin closer while keeping the original photograph intact. */
+.portrait-crop{aspect-ratio:4/5;overflow:hidden;background:var(--wash)}
+.portrait-crop .portrait{height:100%;transform:scale(1.45);transform-origin:50% 35%}
