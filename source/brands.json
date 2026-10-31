@@ -117,5 +117,35 @@
     "sourceAsset": "https://biomedicalimaging.org/2021/wp-content/uploads/sites/61/2020/04/LogoIEEE.2021.112.png",
     "tone": "ink",
     "note": "Official reversed header mark rendered in monochrome for the light page background."
+  },
+  "NeurIPS": {
+    "name": "Neural Information Processing Systems",
+    "image": "assets/images/venue-neurips.webp",
+    "sourcePage": "https://neurips.cc/",
+    "sourceAsset": "https://neurips.cc/static/core/img/NIPS-logo.svg"
+  },
+  "BigData": {
+    "name": "IEEE International Conference on Big Data 2026",
+    "image": "assets/images/venue-bigdata-2026.webp",
+    "sourcePage": "https://bigdataieee.org/BigData2026/",
+    "sourceAsset": "https://bigdataieee.org/BigData2026/ieee-bigdata-logo.png"
+  },
+  "BMVC": {
+    "name": "British Machine Vision Conference 2026",
+    "image": "assets/images/venue-bmvc-2026.webp",
+    "sourcePage": "https://bmvc2026.bmva.org/",
+    "sourceAsset": "https://bmvc2026.bmva.org/assets/images/layout/bmvc-2026-transparent.png"
+  },
+  "TMLR": {
+    "name": "Transactions on Machine Learning Research",
+    "image": "assets/images/venue-tmlr.webp",
+    "sourcePage": "https://jmlr.org/tmlr/",
+    "sourceAsset": "https://jmlr.org/tmlr/img/tmlr.jpg"
+  },
+  "Medical Physics": {
+    "name": "American Association of Physicists in Medicine, publisher of Medical Physics",
+    "image": "assets/images/venue-medical-physics.webp",
+    "sourcePage": "https://www.aapm.org/",
+    "sourceAsset": "https://www.aapm.org/images/aapm_Q42014.png"
   }
 }

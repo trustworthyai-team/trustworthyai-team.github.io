@@ -37,7 +37,7 @@ Regenerate with `npm run build` after changing the content or template. The webs
 
 Home, Research, People, Publications, News, and Join & Contact form the primary site. People links to Life in the Lab, which preserves all seven activity albums. A separate 2023 awards gallery preserves the linked historical page. A 404 page handles unavailable addresses.
 
-The migration includes 17 profiles, 11 research directions, 23 publications, 14 funding entries with the duplicated R33 entry consolidated, and all lab photographs and research figures from the relevant content sections. Agency and venue logos identify related news, publications, and grants. Decorative stock images remain in the source archive.
+The migration includes 17 profiles, 11 research directions, 29 publications (including six 2026 entries added from the director’s publication page), 14 funding entries with the duplicated R33 entry consolidated, and all lab photographs and research figures from the relevant content sections. Agency and venue logos identify related news, publications, and grants. Decorative stock images remain in the source archive.
 
 ## GitHub Pages
 

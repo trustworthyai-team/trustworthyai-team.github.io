@@ -796,5 +796,45 @@
       "height": 600
     },
     "page": "members"
+  },
+  {
+    "local": "assets/images/venue-neurips.webp",
+    "original": "assets/originals/venue-neurips.svg",
+    "width": 320,
+    "height": 320,
+    "source": "https://neurips.cc/static/core/img/NIPS-logo.svg",
+    "page": "papers"
+  },
+  {
+    "local": "assets/images/venue-bigdata-2026.webp",
+    "original": "assets/originals/venue-bigdata-2026.png",
+    "width": 589,
+    "height": 320,
+    "source": "https://bigdataieee.org/BigData2026/ieee-bigdata-logo.png",
+    "page": "papers"
+  },
+  {
+    "local": "assets/images/venue-bmvc-2026.webp",
+    "original": "assets/originals/venue-bmvc-2026.png",
+    "width": 640,
+    "height": 198,
+    "source": "https://bmvc2026.bmva.org/assets/images/layout/bmvc-2026-transparent.png",
+    "page": "papers"
+  },
+  {
+    "local": "assets/images/venue-tmlr.webp",
+    "original": "assets/originals/venue-tmlr.jpg",
+    "width": 340,
+    "height": 240,
+    "source": "https://jmlr.org/tmlr/img/tmlr.jpg",
+    "page": "papers"
+  },
+  {
+    "local": "assets/images/venue-medical-physics.webp",
+    "original": "assets/originals/venue-medical-physics.png",
+    "width": 116,
+    "height": 108,
+    "source": "https://www.aapm.org/images/aapm_Q42014.png",
+    "page": "papers"
   }
 ]
